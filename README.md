@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **ASP.NET Core**
+- 🌱 I’m currently learning **DEEP LEARNING**
 
 - 📫 How to reach me **ouzberkaydin@gmail.com**
 
