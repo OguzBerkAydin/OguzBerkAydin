@@ -6,9 +6,9 @@
 </div>
 <h3 align="center">A passionate Software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **.NET**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Vector Databases**
+- 🌱 I’m currently learning **Vector, Graph Databases**
 
 - 📫 How to reach me **ouzberkaydin@gmail.com**
 
