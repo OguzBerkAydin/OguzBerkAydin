@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Vector, Graph Databases**
+- 🌱 I’m currently learning **Agents**
 
 - 📫 How to reach me **ouzberkaydin@gmail.com**
 
