@@ -1,7 +1,7 @@
 ![banner](https://github.com/OguzBerkAydin/OrderManagement/assets/104473831/09cb6ed7-1bc2-48a0-a62c-b7d1e80e56a7)
 <div align="center">
  <a href="https://github.com/OguzBerkAydin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Oğuz+Berk+AYDIN+%e2%9c%a8;%f0%9f%93%9a+AI+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Oguz+Berk+AYDIN+%e2%9c%a8;%f0%9f%93%9a+AI+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
 <h3 align="center">A passionate AI Software developer from Türkiye</h3>
