@@ -1,5 +1,4 @@
-![banner](https://github.com/user-attachments/assets/64493c58-d91b-4a3a-a9d0-1b9d71189028)
-
+![banner](https://github.com/user-attachments/assets/ba7aa6c1-ebfd-40d0-aa41-d862077a5d2f)
 <div align="center">
  <a href="https://github.com/OguzBerkAydin">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Oguz+Berk+AYDIN+%e2%9c%a8;%f0%9f%93%9a+AI+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
