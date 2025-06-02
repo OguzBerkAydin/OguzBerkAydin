@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzberkaydin&show_icons=true&locale=en" alt="oguzberkaydin" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OguzBerkAydin&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OguzBerkAydin&theme=dark&hide_border=true)]
